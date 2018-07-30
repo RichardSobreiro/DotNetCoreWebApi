@@ -1,0 +1,22 @@
+CREATE DATABASE [AuthorizationDB1]
+GO
+
+USE [AuthorizationDB1]
+GO
+
+
+CREATE USER authagent WITH PASSWORD '~pass123~';
+GRANT ALL PRIVILEGES TO authagent;
+
+IF OBJECT_ID('dbo.Users') IS NOT NULL
+DROP TABLE 	dbo.Users
+GO
+
+CREATE TABLE Users (
+	UserId INT IDENTITY NOT NULL,
+	Name VARCHAR(256) NOT NULL,
+	Surname VARCHAR(256) NOT NULL,
+	DateCreation DATETIME NOT NULL,
+	PRIMARY KEY (UserId)
+)
+
