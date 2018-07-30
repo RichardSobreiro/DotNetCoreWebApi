@@ -1,9 +1,0 @@
-C:\projects\dockersystem\SimpleWebApi\Domain.Business\bin\Debug\netcoreapp2.0\Domain.Business.deps.json
-C:\projects\dockersystem\SimpleWebApi\Domain.Business\bin\Debug\netcoreapp2.0\Domain.Business.dll
-C:\projects\dockersystem\SimpleWebApi\Domain.Business\bin\Debug\netcoreapp2.0\Domain.Business.pdb
-C:\projects\dockersystem\SimpleWebApi\Domain.Business\obj\Debug\netcoreapp2.0\Domain.Business.csprojAssemblyReference.cache
-C:\projects\dockersystem\SimpleWebApi\Domain.Business\obj\Debug\netcoreapp2.0\Domain.Business.csproj.CoreCompileInputs.cache
-C:\projects\dockersystem\SimpleWebApi\Domain.Business\obj\Debug\netcoreapp2.0\Domain.Business.AssemblyInfoInputs.cache
-C:\projects\dockersystem\SimpleWebApi\Domain.Business\obj\Debug\netcoreapp2.0\Domain.Business.AssemblyInfo.cs
-C:\projects\dockersystem\SimpleWebApi\Domain.Business\obj\Debug\netcoreapp2.0\Domain.Business.dll
-C:\projects\dockersystem\SimpleWebApi\Domain.Business\obj\Debug\netcoreapp2.0\Domain.Business.pdb

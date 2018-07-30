@@ -14,6 +14,7 @@ namespace Presentation.Controllers
 			return _usersBusiness.CreateUser(user);
         }
 
+
 		[HttpGet("user/{userId}")]
 		public UserDto GetUserById(int userId)
 		{
