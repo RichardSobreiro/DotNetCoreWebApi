@@ -1,0 +1,9 @@
+C:\projects\dockersystem\SimpleWebApi\Domain.Repository\bin\Debug\netcoreapp2.0\Domain.Repository.deps.json
+C:\projects\dockersystem\SimpleWebApi\Domain.Repository\bin\Debug\netcoreapp2.0\Domain.Repository.dll
+C:\projects\dockersystem\SimpleWebApi\Domain.Repository\bin\Debug\netcoreapp2.0\Domain.Repository.pdb
+C:\projects\dockersystem\SimpleWebApi\Domain.Repository\obj\Debug\netcoreapp2.0\Domain.Repository.csprojAssemblyReference.cache
+C:\projects\dockersystem\SimpleWebApi\Domain.Repository\obj\Debug\netcoreapp2.0\Domain.Repository.csproj.CoreCompileInputs.cache
+C:\projects\dockersystem\SimpleWebApi\Domain.Repository\obj\Debug\netcoreapp2.0\Domain.Repository.AssemblyInfoInputs.cache
+C:\projects\dockersystem\SimpleWebApi\Domain.Repository\obj\Debug\netcoreapp2.0\Domain.Repository.AssemblyInfo.cs
+C:\projects\dockersystem\SimpleWebApi\Domain.Repository\obj\Debug\netcoreapp2.0\Domain.Repository.dll
+C:\projects\dockersystem\SimpleWebApi\Domain.Repository\obj\Debug\netcoreapp2.0\Domain.Repository.pdb

@@ -1,0 +1,14 @@
+C:\projects\dockersystem\SimpleWebApi\Business\bin\Debug\netcoreapp2.0\Business.deps.json
+C:\projects\dockersystem\SimpleWebApi\Business\bin\Debug\netcoreapp2.0\Business.dll
+C:\projects\dockersystem\SimpleWebApi\Business\bin\Debug\netcoreapp2.0\Business.pdb
+C:\projects\dockersystem\SimpleWebApi\Business\bin\Debug\netcoreapp2.0\Domain.Business.dll
+C:\projects\dockersystem\SimpleWebApi\Business\bin\Debug\netcoreapp2.0\Domain.Repository.dll
+C:\projects\dockersystem\SimpleWebApi\Business\bin\Debug\netcoreapp2.0\Domain.Business.pdb
+C:\projects\dockersystem\SimpleWebApi\Business\bin\Debug\netcoreapp2.0\Domain.Repository.pdb
+C:\projects\dockersystem\SimpleWebApi\Business\obj\Debug\netcoreapp2.0\Business.csprojAssemblyReference.cache
+C:\projects\dockersystem\SimpleWebApi\Business\obj\Debug\netcoreapp2.0\Business.csproj.CoreCompileInputs.cache
+C:\projects\dockersystem\SimpleWebApi\Business\obj\Debug\netcoreapp2.0\Business.AssemblyInfoInputs.cache
+C:\projects\dockersystem\SimpleWebApi\Business\obj\Debug\netcoreapp2.0\Business.AssemblyInfo.cs
+C:\projects\dockersystem\SimpleWebApi\Business\obj\Debug\netcoreapp2.0\Business.csproj.CopyComplete
+C:\projects\dockersystem\SimpleWebApi\Business\obj\Debug\netcoreapp2.0\Business.dll
+C:\projects\dockersystem\SimpleWebApi\Business\obj\Debug\netcoreapp2.0\Business.pdb
