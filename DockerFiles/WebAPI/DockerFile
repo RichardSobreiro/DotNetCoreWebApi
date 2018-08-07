@@ -1,0 +1,17 @@
+FROM microsoft/dotnet:sdk AS build-env
+WORKDIR /app
+
+ADD ./ /app
+
+#COPY test.txt /app
+
+COPY /Presentation/Presentation.csproj ./
+RUN dotnet restore
+
+COPY . ./
+RUN dotnet publish -c Release -o out
+
+FROM microsoft/dotnet:aspnetcore-runtime
+WORKDIR /app
+COPY --from=build-env /app/out .
+ENTRYPOINT ["aspnetcore", "Presentation.dll"]

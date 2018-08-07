@@ -1,0 +1,12 @@
+FROM microsoft/mssql-server-linux:2017-latest
+
+RUN mkdir -p /opt/mssql-scripts
+
+COPY CREATE_AUTHORIZATIONDB1.sql /opt/mssql-scripts
+
+ENV MSSQL_SA_PASSWORD=@AuthorizationDB1
+ENV ACCEPT_EULA=Y
+
+RUN /opt/mssql/bin/sqlservr --accept-eula & sleep 10 \
+    && /opt/mssql-tools/bin/sqlcmd -S localhost -U SA -P '@AuthorizationDB1' -i /opt/mssql-scripts/CREATE_AUTHORIZATIONDB1.sql\
+    && pkill sqlservr 
